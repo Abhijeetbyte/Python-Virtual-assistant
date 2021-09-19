@@ -24,7 +24,7 @@ You can also add other commands, here an example that exists
 
 # 1: greeting
  
- - "hey","hi","hello","wake up","hai"      # You can any say any of these and it will give or speak a random output
+ - "hey","hi","hello","wake up","hai"      # You can say any of these and it will give or speak a random output
  
 
 You can Explore the Command by Looking at the program
