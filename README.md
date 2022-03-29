@@ -1,7 +1,7 @@
 # Python-Virtual-assistant
 ### VAVO
 
-Stand for 'Virtual Assistant Version One'. A python based programme that uses speech recognition and text-to-speech functions.</br>
+Stand for 'Virtual Assistant Version One' A python based programme that uses speech recognition and text-to-speech functions.</br>
 Google text-to-speech API were used. (Only work when the system is online)
 
 
@@ -24,7 +24,7 @@ pip install PyAudio
 
 ### Voice Commands
 
-Since it can take various types of voice inputs for intersection and tasks and gives a random voice output which makes it more interactive. 
+Since it can take various types of voice inputs for interaction and gives a random voice output which makes it more interactive. 
 
 You can also add other commands, here an example that exists
 
