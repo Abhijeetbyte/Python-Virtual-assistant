@@ -4,6 +4,8 @@
 Stand for 'Virtual Assistant Version One' A python based programme that uses speech recognition and text-to-speech functions.</br>
 Google text-to-speech API were used. (Only work when the system is online)
 
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+
 
 # Getting started
 Prerequisites:
