@@ -7,11 +7,11 @@ Google text-to-speech API were used. (Only work when the system is online)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 
-# Getting started
+## Getting started
 Prerequisites:
 * Your computer must be running Python3.9 or newer.
 
-### Dependencies
+**Dependencies**
 * Below is the list of libraries that has been used. You must need to install all, before executing the programme
 ```
 pip install speechrecognition
@@ -22,21 +22,19 @@ pip install playsound
 pip install PyAudio
 ```
 
-# Features
+## Features
 
-### Voice Commands
+**Voice Commands**
 
 Since it can take various types of voice inputs for interaction and gives a random voice output which makes it more interactive. 
 
 You can also add other commands, here an example that exists
 
-
-### greeting
+**Greetings**
  
-  "hey","hi","hello","wake up","hai"      Any mentioned keyword and it will give or speak a random output from a specified list
- 
+ `hey, hi, hello, wake up` Any mentioned keyword and,  it will give or speak a random output from a specified list.
 
-# License
+## License
 
 Copyright © Abhijeet kumar. All rights reserved.
 
