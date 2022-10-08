@@ -33,6 +33,12 @@ You can also add other commands, here an example that exists
 **Greetings**
  
  `hey, hi, hello, wake up` Any mentioned keyword and,  it will give or speak a random output from a specified list.
+ 
+ ## Reporting Issues & Contributions
+
+Feel free to report <b>[issues](https://github.com/Abhijeetbyte/Python-Virtual-assistant/issues/new)</b> and <b>contribute</b> to this repository.
+
+<br/>
 
 ## License
 
