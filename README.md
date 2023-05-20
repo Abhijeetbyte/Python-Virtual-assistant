@@ -17,7 +17,7 @@ Prerequisites:
 pip install speechrecognition
 pip install gTTS
 pip install pyaudio
-pip install playsound
+pip install playsound==1.2.2
 
 pip install PyAudio
 ```
